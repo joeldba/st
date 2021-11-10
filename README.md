@@ -12,4 +12,4 @@
 * anysize - Allows st to be transformed freely
 * alpha - Shows a translucent background when used w/ a compositor
 * scrollback - Implements scrollback functionality. Bound to Shift+PgUp/PgDn
-* cursorblinks - Self-explanatory. Can be disabled in config.h.
+* blinking cursor - Self-explanatory. Can be disabled in config.h.
